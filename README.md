@@ -10,7 +10,7 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 
 ![WhatsApp Image 2024-11-13 at 16 02 51_d0a9f496](https://github.com/user-attachments/assets/1fa282d8-4a5e-4473-b7d9-555d3d9f7862)
 
-### Schematic Simulation:
+### SCHEMATIC SIMULATION:
 
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
@@ -96,23 +96,23 @@ iv)	Creating the new test cell view
   + Execute Output s—to be plotted – Select on Schematic
   + Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 - Execute Simulation -- Net list and Run
-
-![8](https://github.com/user-attachments/assets/dfe8e7a1-fcde-4d26-b913-fe2448e4f1b8)
+  
+![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
 
 
 ### For Transient Analysis Settings and Output
-![6](https://github.com/user-attachments/assets/41158b07-d743-42d2-b416-ea3f15025d5d)
 
+![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
-![5](https://github.com/user-attachments/assets/5d37d4ce-14fa-4aaf-bc8c-3f7a26497bc6)
+![Screenshot 2024-09-03 164547](https://github.com/user-attachments/assets/b9fac9f6-7b58-45f7-ab84-6fde86230a19)
 
 
 ### For DC Analysis Settings and Output
-![7](https://github.com/user-attachments/assets/cfa14204-7a24-4b71-b39b-9fa981f95b27)
- 
 
-![1](https://github.com/user-attachments/assets/8a24b7aa-3a4d-44ed-a99e-ecda29b6b6dd)
- 
+![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+
+![Screenshot 2024-09-03 165032](https://github.com/user-attachments/assets/0561baf7-4ddb-4f80-89f4-14b660564534)
+
 
 ### Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
