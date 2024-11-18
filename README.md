@@ -97,19 +97,25 @@ iv)	Creating the new test cell view
   + Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 - Execute Simulation -- Net list and Run
   
-![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+  ![exp1_trans](https://github.com/user-attachments/assets/5c867870-cadc-468c-95f3-af1c150ae2a2)
 
 
 ### For Transient Analysis Settings and Output
 
-![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+
+![exp1_trans1](https://github.com/user-attachments/assets/48e2a1eb-e0a3-4dee-82d8-904171811e45)
+
+
 
 ![Screenshot 2024-09-03 164547](https://github.com/user-attachments/assets/b9fac9f6-7b58-45f7-ab84-6fde86230a19)
 
 
 ### For DC Analysis Settings and Output
 
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+
+![exp1_dc](https://github.com/user-attachments/assets/17e4e30d-4788-4589-a696-29433e2b408f)
+
+
 
 ![Screenshot 2024-09-03 165032](https://github.com/user-attachments/assets/0561baf7-4ddb-4f80-89f4-14b660564534)
 
